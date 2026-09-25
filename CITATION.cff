@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this analysis repository, please cite the repository and the source GSE141044 study."
+title: "APP23 hippocampal single-nucleus RNA-seq analysis"
+type: software
+authors:
+  - family-names: "Khaled"
+    given-names: "Mostafa"
+repository-code: "https://github.com/Mokhaled576/APP23-hippocampal-snRNAseq"
+keywords:
+  - single-nucleus RNA-seq
+  - APP23
+  - hippocampus
+  - Alzheimer's disease
+  - Seurat
+  - pseudobulk
+  - GSEA
+  - CellChat

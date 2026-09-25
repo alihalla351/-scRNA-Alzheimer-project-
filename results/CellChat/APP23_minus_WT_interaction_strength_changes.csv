@@ -1,0 +1,17 @@
+source,target,difference_weight
+CA3,CA3,-2.52269857
+CA3,CA1_like,-1.74145380
+Inhibitory,CA3,-1.59844203
+CA3,DG,-1.42639657
+Inhibitory,CA1_like,-1.38174281
+CA1_like,CA3,-1.34294408
+Inhibitory,DG,-0.86795731
+CA1_like,CA1_like,-0.81686661
+CA1_like,DG,-0.74025468
+CA3,Inhibitory,-0.63509413
+DG,CA1_like,0.60559800
+Inhibitory,Inhibitory,-0.51299553
+DG,DG,0.32410379
+CA1_like,Inhibitory,0.25711946
+DG,CA3,-0.16946924
+DG,Inhibitory,-0.03392442

@@ -1,0 +1,17 @@
+source,target,difference_count
+CA1_like,Inhibitory,24
+CA3,CA1_like,-18
+CA3,Inhibitory,17
+CA3,CA3,-16
+DG,DG,15
+Inhibitory,Inhibitory,15
+DG,Inhibitory,14
+DG,CA1_like,13
+Inhibitory,CA1_like,-13
+CA1_like,CA1_like,-11
+Inhibitory,CA3,-6
+Inhibitory,DG,4
+CA1_like,CA3,-3
+CA1_like,DG,2
+DG,CA3,2
+CA3,DG,-1

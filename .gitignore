@@ -1,0 +1,32 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large source data and serialized objects
+data/raw/
+data/processed/
+*.mtx
+*.mtx.gz
+*.h5
+*.h5ad
+*.loom
+*.rds
+*.RDS
+*.rda
+*.RData
+*.gz
+
+# Temporary/output files
+*.tmp
+*.temp
+~$*
+
+# Keep reproducible text/tabular outputs and publication figures under version control.

@@ -1,0 +1,12 @@
+pathway_requested,condition,LR_interactions,total_probability
+AGRN,WT,4,0.0345
+Cholesterol,APP23,6,0.0137
+Cholesterol,WT,6,0.0109
+CypA,WT,3,0.263
+Desmosterol,APP23,7,0.0139
+Desmosterol,WT,5,0.00508
+IGF,APP23,4,0.000487
+PDGF,APP23,4,0.00357
+SEMA6,APP23,4,0.0302
+TENASCIN,APP23,3,0.0124
+ncWNT,WT,1,0.000471
