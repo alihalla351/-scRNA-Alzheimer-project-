@@ -2567,7 +2567,6 @@ cat("\nPCs being used:\n")
 print(pcs_use)
 
 
-# Reviewed and confirmed by Hala - clustering, UMAP and annotation section
 # =============================================================================
 # 39. BUILD NEAREST-NEIGHBOR GRAPH
 # =============================================================================
